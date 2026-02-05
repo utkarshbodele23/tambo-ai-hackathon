@@ -2,6 +2,8 @@
 
 **Tambo WorkOS** is a next-generation project management dashboard where the user interface *is* the AI's response. Instead of manually navigating menus or configuring views, you simply tell the system what you want, and it dynamically builds the interface to match your intent.
 
+<img width="1610" height="909" alt="image" src="https://github.com/user-attachments/assets/623fe952-8247-47d6-8105-395789364923" />
+
 🚀 **Live Demo:** [https://tamboworkos.netlify.app/](https://tamboworkos.netlify.app/)
 
 
